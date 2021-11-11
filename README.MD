@@ -11,6 +11,8 @@
   <img align="center" alt="azvd-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="azvd-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="azvd-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="azvd-pic" height="150" style="border-radius:50px;" 
+       src = "https://cdn.discordapp.com/attachments/733300576892485695/908384400289456158/picasion.com_fd090564b2b4a577fcfed13a88c2aa80.gif">
   
 </div>
  
