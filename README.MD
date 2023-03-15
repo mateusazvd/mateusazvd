@@ -1,8 +1,12 @@
 <h1> Olá eu sou o Mateus Azevedo</h1>
 <div align="center">
   <a href="https://github.com/mateusazvd">
- 
 </div>
+  
+  <div align="center">
+  <a href="https://github.com/mateusazvd%22%3E
+  <img src="https://github-readme-stats.vercel.app/api?username=mateusazvd&theme=midnight-purple&show_icons=true%22/%3E</a>
+  </div>
   <br>
   <br>
   <div style="display: inline_block"><br>
