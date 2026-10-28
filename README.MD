@@ -7,7 +7,6 @@
 | Projeto | O que é |
 | --- | --- |
 | [**CLI Context Hub**](https://github.com/mateusazvd/CLI-context-hub) | Workspace desktop (Electron) para trabalhar com CLIs de IA (Claude Code, Copilot, Gemini, Codex, Ollama). Guarda sessões, handoffs e contextos num só lugar, para que um modelo continue o trabalho que outro começou. |
-| **Harness Hub** *(em desenvolvimento)* | Ferramenta para agrupar harnesses de ferramentas CLI. |
 
 
 ## 📫 Contato
