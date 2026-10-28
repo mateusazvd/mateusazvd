@@ -2,12 +2,6 @@
 
 **Desenvolvedor Full Stack** na [Pague Menos](https://www.paguemenos.com.br), em Fortaleza (CE). Estudo Ciência da Computação e meu foco hoje é **Arquitetura de Software e System Design**: entender como as peças de um sistema se encaixam, e não só como cada uma funciona.
 
-## 🔭 No que eu trabalho
-
-- **Arquitetura de entrega na borda:** canary release por cookie usando CDN (Azion / CloudFront) e S3
-- **Integração de dados:** pipelines entre SQL Server e outros sistemas usando T-SQL
-- **Ferramentas para desenvolvedores:** apps desktop que organizam o trabalho com CLIs de IA
-
 ## 🚀 Projetos
 
 | Projeto | O que é |
@@ -24,7 +18,7 @@
 
 ## 📚 Aprendendo agora
 
-System Design · padrões de arquitetura · inglês
+System Design · padrões de arquitetura
 
 ## 📫 Contato
 
