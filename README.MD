@@ -9,16 +9,6 @@
 | [**CLI Context Hub**](https://github.com/mateusazvd/CLI-context-hub) | Workspace desktop (Electron) para trabalhar com CLIs de IA (Claude Code, Copilot, Gemini, Codex, Ollama). Guarda sessões, handoffs e contextos num só lugar, para que um modelo continue o trabalho que outro começou. |
 | **Harness Hub** *(em desenvolvimento)* | Ferramenta para agrupar harnesses de ferramentas CLI. |
 
-## 🛠️ Stack
-
-- **Back-end:** Node.js · SQL Server / T-SQL
-- **Front-end e desktop:** JavaScript · React · Electron · Tauri
-- **Cloud e entrega:** AWS (S3, CloudFront) · Azion · CDN e edge
-- **Ferramentas:** Git · GitHub · CLIs de IA
-
-## 📚 Aprendendo agora
-
-System Design · padrões de arquitetura
 
 ## 📫 Contato
 
